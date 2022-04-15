@@ -42,23 +42,8 @@ POI 版本： 4.1.2
 # 样式属性封装
 ## 字体样式
 ```java
-import dfa.core.style.Const.ColorConst;
-import dfa.core.style.Const.FontFamilyConst;
-import dfa.core.style.Const.FontSizeConst;
-
 /**
  * @author Zhao Wen
- * @version 1.0.0
- * @description
- *
- *  设定一个FontStyle Class
- *  包含 5 个属性：
- *       fontSize {@link String} 字体大小
- *       fongFamily {@link String} 字体样式
- *       isBold {@link Boolean} 字体是否为粗体
- *       isItalic {@link Boolean} 字体是否为斜体
- *       fontColor {@link String} 字体颜色
- *
  **/
 
 
